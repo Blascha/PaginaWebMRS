@@ -1,0 +1,356 @@
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  }
+  .link{
+    width: 100%;
+    height: 30px;
+    max-height: 40px;
+  }
+  .link1{
+    text-decoration: none;
+    margin: 0px;
+    font-family: "Open Sans", Arial, sans-serif;
+  }
+  .link2{
+    text-decoration: none;
+    text-align: center;
+    font-family: "Open Sans", Arial, sans-serif;
+    margin: 0px;
+  }
+  .link3{
+    text-decoration: none;
+    margin: 0px;
+    font-family: "Open Sans", Arial, sans-serif;
+  }
+  p.link1 {
+    margin: 0px;
+    font-family: "Open Sans", Arial, sans-serif;
+}
+  .cajalink1{
+    text-align: center;
+    width: 33%;
+    float: left;
+    padding: 5px 0;
+    transition: 1s;
+    background-color:#00599c;
+    color: white;
+  }
+  .cajalink1:hover
+  {
+    background-color: white;
+    color:#00599c;
+  }
+  .cajalink2{
+    text-align: center;
+    width: 34%;
+    float: left;
+    padding: 5px 0;
+    transition: 1s;
+    background-color:#00599c;
+    color: white;
+  }
+  .cajalink2:hover
+  {
+    background-color: white;
+    color: #00599c;
+  }
+  .cajalink3{
+    text-align: center;
+    width: 33%;
+    float: left;
+    padding: 5px 0;
+    transition: 1s;
+    background-color:#00599c;
+    color: white;
+  }
+  .cajalink3:hover
+  {
+    background-color: white;
+    color: #00599c;
+  }
+
+.viviendasunifamiliares{
+    width: 100%;
+}
+.propiedadhorizontal{
+    width: 100%;
+  }
+.otrasobras{
+  width: 100%;
+  height: 100%;
+}
+.cajaviviendasunifamiliares
+{
+  width: 33%;
+  float: left;
+  height: 100%;
+  }
+.cajaproppiedadhorizontal{
+  width: 33%;
+  float: left;
+  height: 100%;
+}
+.cajaotrasobras{
+  width: 33%;
+  float: left;
+  height: 100%;
+}
+.textoviviendasunifamiliares
+  {
+  position: absolute;
+  text-align:center;
+  font-size: 30px;
+  color: #00599c;
+  z-index: -1;
+  top: 75%;
+  width: 33%;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+.textopropiedadhorizontal
+  {
+  position: absolute;
+  text-align: center;
+  font-size: 30px;
+  color: #00599c;
+  z-index: -1;
+  top: 75%;
+  width: 33%;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+.textootrasobras
+    {
+    position: absolute;
+    font-size: 30px;
+    text-align: center;
+    color: #00599c;
+    z-index: -1;
+    top: 75%;
+    width: 33%;
+    font-family: "Open Sans", Arial, sans-serif;
+}
+a{
+  transition: 1s;
+}
+a:hover{
+  opacity: 0.5;
+}
+.fotosnosotros{
+  width: 33%;
+  height: 100%;
+  float: left;
+}
+.fotoviejaequipo{
+  width: 100%;
+  margin-top: 20px;
+
+}
+.fotoequipoahora{
+  width: 100%;
+  margin-top: 20px;
+}
+.parrafoequipo{
+  margin: 40px;
+  margin-left: 37%;
+  margin-top: 20px;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+.cajacontacto{
+  top: 20%;
+  height: 100%;
+  margin: 5%;
+  margin-top: 20px;
+}
+.formulario{
+  margin:10px;
+  text-align: center;
+  margin: auto;
+  display: block;
+  margin-left: 55%;
+  height: 40px;
+  border-radius: 40px;
+  border: 1px solid black;
+  width: 400px;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+.formulariolabel{
+  margin: auto;
+  display: block;
+  text-align: center;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+.labelcaja{
+    margin-left: 55%;
+      width: 400px;
+}
+.formulariomensaje{
+  height: 200px;
+  margin:10px;
+  width: 400px;
+  display: block;
+  margin: auto;
+  margin-left: 55%;
+  border-radius: 40px;
+  border: 1px solid black;
+  font-family: "Open Sans", Arial, sans-serif;
+  resize: none;
+  padding: 12px 20px;
+}
+input[type=text]:focus {
+  background-color: lightblue;
+  border: 1px solid #555;
+}
+input[type=email]:focus {
+  background-color: lightblue;
+  border: 1px solid #555;
+}
+textarea:focus{
+  background-color: lightblue;
+  border: 1px solid #555;
+}
+.formularioenviar{
+  margin:10px;
+  text-align: center;
+  margin: auto;
+  display: block;
+  margin-left: 55%;
+  height: 40px;
+  border-radius: 40px;
+  border: 1px solid black;
+  width: 100px;
+  background-color: #00599c;
+  color: white;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+.contacto
+{font-family: "Open Sans", Arial, sans-serif;
+  font-size: 20px;
+  height: 20px;
+  margin: 0px;
+  margin-right: 5px;
+  float: left;
+}
+.fotosdeobra{
+  width: 50%;
+  float: left;
+  height: 50%;
+}
+.fotosdeobras{
+  width: 95%;
+  margin: 10px;
+}
+.textofotosdeobrasp1{
+  position: absolute;
+  text-align:center;
+  font-size: 30px;
+  color: #00599c;
+  z-index: -1;
+  top: 45%;
+  width: 50%;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+.textofotosdeobrasp2{
+  position: absolute;
+  text-align:center;
+  font-size: 30px;
+  color: #00599c;
+  z-index: -1;
+  top: 100%;
+  width: 50%;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+.textofotosdeobrasp3{
+  position: absolute;
+  text-align:center;
+  font-size: 30px;
+  color: #00599c;
+  z-index: -1;
+  top: 158%;
+  width: 50%;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+.textofotosdeobrasp4{
+  position: absolute;
+  text-align:center;
+  font-size: 30px;
+  color: #00599c;
+  z-index: -1;
+  top: 215%;
+  width: 50%;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+.textofotosdeobrasp5{
+  position: absolute;
+  text-align:center;
+  font-size: 30px;
+  color: #00599c;
+  z-index: -1;
+  top: 270%;
+  width: 50%;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+.inconvenientes{
+  color: #00599c;
+  font-size: 30px;
+  text-align: center;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+.imginconvenientes{
+  width: 50%;
+  margin-left: 25%;
+  margin-right:25%;
+}
+.imagenportada{
+  height:90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.linkI{
+  width: 100%;
+  height: 10%;
+}
+.indexcaja{
+  height: 96vh;
+}
+.cajaprueba{
+  height: 480px;
+}
+.cajaParaBajarInfo{
+  height: 500px;
+  width: 50%;
+  float: right;
+}
+#mensajeDespuesDeFormulario{
+  text-align:center;
+  color: #00599c;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+position: absolute;
+top: 50%;
+transform: translate(-50%, -50%);
+}
+
+.contenedorDeFotos{
+  height: 70vh;
+}
+.imagenQueSeMueve
+{
+  height: 70vh;
+}
+.item{
+  height: 70vh;
+  line-height: 70vh;
+}
+.cajaMensajePostEnvio{
+  float: right;
+  width: 50%;
+  height: 500px;
+}
