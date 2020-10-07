@@ -7,7 +7,6 @@
   .link{
     width: 100%;
     height: 30px;
-    max-height: 40px;
   }
   .link1{
     text-decoration: none;
@@ -162,6 +161,7 @@ a:hover{
   height: 100%;
   margin: 5%;
   margin-top: 20px;
+  margin-top:160px;
 }
 .formulario{
   margin:10px;
@@ -268,7 +268,7 @@ textarea:focus{
   font-size: 30px;
   color: #00599c;
   z-index: -1;
-  top: 158%;
+  top: 165%;
   width: 50%;
   font-family: "Open Sans", Arial, sans-serif;
 }
@@ -279,7 +279,7 @@ textarea:focus{
   font-size: 30px;
   color: #00599c;
   z-index: -1;
-  top: 215%;
+  top: 225%;
   width: 50%;
   font-family: "Open Sans", Arial, sans-serif;
 }
@@ -353,4 +353,26 @@ transform: translate(-50%, -50%);
   float: right;
   width: 50%;
   height: 500px;
+}
+.contenedorDeTodo{
+  overflow: scroll;
+  object-fit: fill;
+}
+.todo{
+  height: 100vh;
+  width: 100vw;
+}
+.menuArriba{
+  width: 100%;
+  position: fixed;
+  background-color: white;
+  top: 0px;
+  z-index: 100;
+}
+.contenidoNosotros{
+  margin-top: 185px;
+}
+.fotosObras{
+  margin-top: 160px;
+  width: 100vw;
 }
