@@ -310,7 +310,7 @@ textarea:focus{
   font-size: 30px;
   color: #00599c;
   z-index: -1;
-  top: 165%;
+  top: 155%;
   width: 50%;
   font-family: "Open Sans", Arial, sans-serif;
 }
@@ -321,7 +321,7 @@ textarea:focus{
   font-size: 30px;
   color: #00599c;
   z-index: -1;
-  top: 225%;
+  top: 215%;
   width: 50%;
   font-family: "Open Sans", Arial, sans-serif;
 }
@@ -385,7 +385,7 @@ transform: translate(-50%, -50%);
 }
 .imagenQueSeMueve
 {
-  height: 70vh;
+  width: 50%;
 }
 .item{
   height: 70vh;
