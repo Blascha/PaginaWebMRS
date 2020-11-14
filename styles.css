@@ -275,34 +275,34 @@ textarea:focus{
   float: left;
 }
 .fotosdeobra{
-  width: 50%;
+  width: 33%;
   float: left;
   height: 50%;
 }
 .fotosdeobras{
   width: 95%;
-  margin: 10px;
+  margin: 10px
 }
 .textofotosdeobrasp1{
-  position: absolute;
+  position:absolute;
   text-align:center;
   font-size: 30px;
   color: #00599c;
   z-index: -1;
-  top: 45%;
-  width: 50%;
+  top: 35%;
+  width: 33%;
   font-family: "Open Sans", Arial, sans-serif;
 }
 .textofotosdeobrasp2{
   position: absolute;
-  text-align:center;
-  font-size: 30px;
-  color: #00599c;
-  z-index: -1;
-  top: 100%;
-  width: 50%;
-  font-family: "Open Sans", Arial, sans-serif;
-}
+    text-align:center;
+    font-size: 30px;
+    color: #00599c;
+    z-index: -1;
+    top: 75%;
+    width: 33%;
+    font-family: "Open Sans", Arial, sans-serif;
+    }
 
 .textofotosdeobrasp3{
   position: absolute;
@@ -310,8 +310,8 @@ textarea:focus{
   font-size: 30px;
   color: #00599c;
   z-index: -1;
-  top: 155%;
-  width: 50%;
+  top: 115%;
+  width: 33%;
   font-family: "Open Sans", Arial, sans-serif;
 }
 
