@@ -11,13 +11,6 @@
 
 <!-- Latest compiled JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <style>
-    .carousel-inner > .item > img,
-    .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
-    }
-    </style>
 <style>
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
@@ -25,7 +18,20 @@
   margin: auto;
 }
 </style>
-    <title></title>
+<style>
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+width: 100%;
+margin: auto;
+}
+.carousel-inner {
+height: 70vh;
+}
+img{
+max-height: 70vh;
+object-fit: cover;
+}
+</style>    <title></title>
   </head>
   <body>
     <a href="index.html"><img class="logo" src="logo.png" alt=""></a>
