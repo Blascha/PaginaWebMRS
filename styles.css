@@ -286,7 +286,7 @@ textarea:focus{
 .textofotosdeobrasp1{
   position:absolute;
   text-align:center;
-  font-size: 30px;
+  font-size: 20px;
   color: #00599c;
   z-index: -1;
   top: 35%;
@@ -296,7 +296,7 @@ textarea:focus{
 .textofotosdeobrasp2{
   position: absolute;
     text-align:center;
-    font-size: 30px;
+    font-size: 20px;
     color: #00599c;
     z-index: -1;
     top: 75%;
@@ -307,7 +307,7 @@ textarea:focus{
 .textofotosdeobrasp3{
   position: absolute;
   text-align:center;
-  font-size: 30px;
+  font-size: 20px;
   color: #00599c;
   z-index: -1;
   top: 115%;
@@ -318,7 +318,7 @@ textarea:focus{
 .textofotosdeobrasp4{
   position: absolute;
   text-align:center;
-  font-size: 30px;
+  font-size: 20px;
   color: #00599c;
   z-index: -1;
   top: 215%;
@@ -329,7 +329,7 @@ textarea:focus{
 .textofotosdeobrasp5{
   position: absolute;
   text-align:center;
-  font-size: 30px;
+  font-size: 20px;
   color: #00599c;
   z-index: -1;
   top: 270%;
