@@ -179,21 +179,13 @@ a:hover{
   opacity: 0.5;
 }
 .fotosnosotros{
-  width: 33%;
+  width: 10%;
   height: 100%;
   float: left;
 }
-.fotoviejaequipo{
-  width: 100%;
-}
-
-.fotoequipoahora{
-  width: 100%;
-  margin-top: 20px;
-}
 .parrafoequipo{
   margin: 40px;
-  margin-left: 37%;
+  margin-left: 12%;
   margin-top: 20px;
   font-family: "Open Sans", Arial, sans-serif;
 }
@@ -344,8 +336,6 @@ textarea:focus{
 }
 .imagenportada{
   width: 100vw;
-  height: 90vh;
-  object-fit: cover;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -429,4 +419,7 @@ transform: translate(-50%, -50%);
 .cajaformulario{
   width: 400px;
   margin-left: 55%;
+}
+.fotointegrantes{
+  width: 100%;
 }
