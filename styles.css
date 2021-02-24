@@ -179,7 +179,7 @@ a:hover{
   opacity: 0.5;
 }
 .fotosnosotros{
-  width: 10%;
+  width: 33vw;
   height: 100%;
   float: left;
 }
@@ -191,7 +191,7 @@ a:hover{
 }
 .cajacontacto{
   top: 20%;
-  height: 100%;
+  height: 76vh;
   margin: 5%;
   margin-top: 20px;
   margin-top:180px;
@@ -335,7 +335,7 @@ textarea:focus{
   margin-right:25%;
 }
 .imagenportada{
-  width: 100vw;
+  height: 90.5vh;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -345,9 +345,6 @@ textarea:focus{
   width: 100%;
   height: 10%;
   z-index: 1;
-}
-.indexcaja{
-  height: 96vh;
 }
 .cajaprueba{
   height: 480px;
@@ -409,17 +406,28 @@ transform: translate(-50%, -50%);
 }
 .textoequipo{
   margin-top: 20px;
+  width: 33vw;
+  float: left;
 }
 .titulonosotros{
   font-weight: bold;
-  font-size: 40px;
+  font-size: 38px;
   font-family: "Open Sans", Arial, sans-serif;
-  text-align: center;
 }
 .cajaformulario{
   width: 400px;
   margin-left: 55%;
 }
 .fotointegrantes{
-  width: 100%;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.contactoalternativo
+{
+  width: 99vw;
+  height: 20px;
+  background-color: #00599c;
+  color: white;
 }
