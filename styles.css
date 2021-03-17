@@ -260,6 +260,7 @@ textarea:focus{
   margin: 0px;
   margin-right: 5px;
   float: left;
+  color: white;
 }
 .fotosdeobra{
   width: 33%;
