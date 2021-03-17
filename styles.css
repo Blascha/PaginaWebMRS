@@ -406,7 +406,6 @@ transform: translate(-50%, -50%);
   width: 100vw;
 }
 .textoequipo{
-  margin-top: 20px;
   width: 33vw;
   float: left;
 }
@@ -414,6 +413,7 @@ transform: translate(-50%, -50%);
   font-weight: bold;
   font-size: 38px;
   font-family: "Open Sans", Arial, sans-serif;
+  margin-top: 0px;
 }
 .cajaformulario{
   width: 400px;
