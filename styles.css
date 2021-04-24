@@ -287,7 +287,7 @@ textarea:focus{
     font-size: 20px;
     color: #00599c;
     z-index: -1;
-    top: 75%;
+    top: 70%;
     width: 33%;
     font-family: "Open Sans", Arial, sans-serif;
     }
@@ -298,7 +298,7 @@ textarea:focus{
   font-size: 20px;
   color: #00599c;
   z-index: -1;
-  top: 115%;
+  top: 107%;
   width: 33%;
   font-family: "Open Sans", Arial, sans-serif;
 }
