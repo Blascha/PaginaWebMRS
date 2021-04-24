@@ -184,10 +184,12 @@ a:hover{
   float: left;
 }
 .parrafoequipo{
-  margin: 40px;
-  margin-left: 12%;
-  margin-top: 20px;
+  margin: 8px;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 0px;
   font-family: "Open Sans", Arial, sans-serif;
+  font-size:14px;
 }
 .cajacontacto{
   top: 20%;
@@ -407,12 +409,12 @@ transform: translate(-50%, -50%);
   width: 100vw;
 }
 .textoequipo{
-  width: 60vw;
+  width: 57vw;
   float: left;
 }
 .titulonosotros{
   font-weight: bold;
-  font-size: 38px;
+  font-size: 25px;
   font-family: "Open Sans", Arial, sans-serif;
   margin-top: 0px;
 }
