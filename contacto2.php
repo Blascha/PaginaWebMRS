@@ -3,7 +3,7 @@ $nombre = $_POST["nombre"];
 $email = $_POST["email"];
 $mensaje = $_POST["mensaje"];
 $queRecibeMRS = "Nombre: " . $nombre . ". mail: " . $email. " mensaje: " . $mensaje . ".";
-$emailTo = 'infomrsconstrucciones@gmail.com.ar';
+$emailTo = 'infomrsconstrucciones@gmail.com';
 $emailSubject = 'Desde Pagina WEB';
 $headers = 'Desde Pagina WEB'
 @mail($emailTo, $emailSubject, $queRecibeMRS);
